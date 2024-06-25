@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-NBA-quiz/static/css/main.e76255c0.css",
+    "main.js": "/React-NBA-quiz/static/js/main.79d7275c.js",
+    "static/js/453.419a5d54.chunk.js": "/React-NBA-quiz/static/js/453.419a5d54.chunk.js",
+    "index.html": "/React-NBA-quiz/index.html",
+    "main.e76255c0.css.map": "/React-NBA-quiz/static/css/main.e76255c0.css.map",
+    "main.79d7275c.js.map": "/React-NBA-quiz/static/js/main.79d7275c.js.map",
+    "453.419a5d54.chunk.js.map": "/React-NBA-quiz/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e76255c0.css",
+    "static/js/main.79d7275c.js"
+  ]
+}
